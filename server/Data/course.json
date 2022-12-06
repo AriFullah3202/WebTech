@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3JhRPx0moLXhzggkLwv4aPZm6a71RqID9yOsT63OJL9Vy5MGWJCoJvgs&s=10",
+        "title": "java",
+        "price": 2300,
+        "description": "Java Course is about helping aspirants learn the concepts of programming and solve complex problems. This course requires patience, analytical thinking ability, attention to detail as they are essential in becoming a successful programmer. "
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyy88b-XIT7FWaPPy1Y84X_tHTXDXYUrMIQw&usqp=CAU",
+        "title": "Python",
+        "price": 2600,
+        "description": " This course provides an introduction to programming and the Python language.  Students are introduced to core programming concepts like data structures, conditionals, loops, variables, and functions. "
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYINKON3vC0I8tr-uNWeIObXIjjrlhp6NUjg&usqp=CAU",
+        "title": "React",
+        "price": 2400,
+        "description": "React.js is a versatile JavaScript library for building interactive user interfaces easily. It is used by companies such as Facebook and Instagram. If you are planning to create UI/UX solutions for mobile or web, this course is extremely beneficial to improve your working skills."
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeAtldnl779O9-9NAjTF6KlJNaGbD9pqWUZg&usqp=CAU",
+        "title": "JavaScript",
+        "price": 3000,
+        "description": "JavaScript is a popular programming language that is used to make a website interactive. JavaScript courses are offered by online platforms & top Universities. JavaScript can be studied as a stand-alone online course or can be studied under a web development master or nanodegree program; along with HTML, CSS, React, etc."
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://www.tutorialrepublic.com/lib/images/html-illustration.png",
+        "title": "Html",
+        "price": 300,
+        "description": "HTML is everywhere and more and its more important than ever.   Its not only for web developers, having knowledge of HTML and how it works is beneficial in most careers."
+    },
+    {
+        "id": 6,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvA00GaUwlwEKhXxDgarATH7yRlRh3utSexQ&usqp=CAU",
+        "title": "Css",
+        "price": 600,
+        "description": "This course shows you how to design web pages and create CSS classes from a beginner's level to a more intermediate level. It starts off with basic HTML declarations, properties, values and how to include a CSS style sheet with your HTML code."
+    }
+]
